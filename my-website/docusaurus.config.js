@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://jezza-git.github.io/TWR2019-Docusaurus/',
+  url: 'https://jezza-git.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -29,6 +29,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jezza-git', // Usually your GitHub org/user name.
   projectName: 'TWR2019-Docusaurus', // Usually your repo name.
+  trailingSlash: false,
   deploymentBranch: 'main',
   onBrokenLinks: 'throw',
 
