@@ -30,7 +30,7 @@ const config = {
   organizationName: 'jezza-git', // Usually your GitHub org/user name.
   projectName: 'TWR2019-Docusaurus', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: 'main',
+  deploymentBranch: 'main', //
   onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
